@@ -1,0 +1,37 @@
+{
+  "name": "Backd LP Tokens",
+  "logoURI": "",
+  "keywords": ["audited", "verified", "special tokens"],
+  "timestamp": "2022-03-17T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xfE5392049543e1FdCFAd9CD8a05A6D28EEf5E9b7",
+      "symbol": "bkdUSDC",
+      "name": "Backd USDC",
+      "decimals": 6,
+      "logoURI": ""
+    },
+    {
+      "chainId": 1,
+      "address": "0x15CC2cc177CC56e795eBBD8a679984Db1EdDEb52",
+      "symbol": "bkdDAI",
+      "name": "backd DAI",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 1,
+      "address": "0x05e27731b4b2c95E61Ff693B9F61FC36C9B7FD2f",
+      "symbol": "bkdETH",
+      "name": "backd ETH",
+      "decimals": 18,
+      "logoURI": ""
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
