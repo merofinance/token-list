@@ -1,7 +1,7 @@
 {
   "name": "Backd LP Tokens",
-  "logoURI": "",
-  "keywords": ["audited", "verified", "special tokens"],
+  "logoURI": "https://raw.githubusercontent.com/backdfund/token-list/main/assets/backd.png",
+  "keywords": ["backd"],
   "timestamp": "2022-03-17T00:00:00+00:00",
   "tokens": [
     {
@@ -10,7 +10,7 @@
       "symbol": "bkdUSDC",
       "name": "Backd USDC",
       "decimals": 6,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/backdfund/token-list/main/assets/bkdUSDC.png"
     },
     {
       "chainId": 1,
@@ -18,7 +18,7 @@
       "symbol": "bkdDAI",
       "name": "backd DAI",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/backdfund/token-list/main/assets/bkdDAI.png"
     },
     {
       "chainId": 1,
@@ -26,7 +26,7 @@
       "symbol": "bkdETH",
       "name": "backd ETH",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/backdfund/token-list/main/assets/bkdETH.png"
     }
   ],
   "version": {
