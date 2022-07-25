@@ -1,32 +1,32 @@
 {
-  "name": "Backd LP Tokens",
-  "logoURI": "https://raw.githubusercontent.com/backdfund/token-list/main/assets/backd.png",
-  "keywords": ["backd"],
+  "name": "Mero LP Tokens",
+  "logoURI": "https://raw.githubusercontent.com/merofinance/token-list/main/assets/MERO.png",
+  "keywords": ["mero"],
   "timestamp": "2022-03-17T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
       "address": "0xfE5392049543e1FdCFAd9CD8a05A6D28EEf5E9b7",
-      "symbol": "bkdUSDC",
-      "name": "Backd USDC",
+      "symbol": "meroUSDC",
+      "name": "Mero USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/backdfund/token-list/main/assets/bkdUSDC.png"
+      "logoURI": "https://raw.githubusercontent.com/merofinance/token-list/main/assets/meroUSDC.png"
     },
     {
       "chainId": 1,
       "address": "0x15CC2cc177CC56e795eBBD8a679984Db1EdDEb52",
-      "symbol": "bkdDAI",
-      "name": "backd DAI",
+      "symbol": "meroDAI",
+      "name": "Mero DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/backdfund/token-list/main/assets/bkdDAI.png"
+      "logoURI": "https://raw.githubusercontent.com/merofinance/token-list/main/assets/meroDAI.png"
     },
     {
       "chainId": 1,
       "address": "0x05e27731b4b2c95E61Ff693B9F61FC36C9B7FD2f",
-      "symbol": "bkdETH",
-      "name": "backd ETH",
+      "symbol": "meroETH",
+      "name": "Mero ETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/backdfund/token-list/main/assets/bkdETH.png"
+      "logoURI": "https://raw.githubusercontent.com/merofinance/token-list/main/assets/meroETH.png"
     }
   ],
   "version": {
