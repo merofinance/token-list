@@ -2,11 +2,11 @@
   "name": "Mero LP Tokens",
   "logoURI": "https://raw.githubusercontent.com/merofinance/token-list/main/assets/MERO.png",
   "keywords": ["mero"],
-  "timestamp": "2022-03-17T00:00:00+00:00",
+  "timestamp": "2022-08-16T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfE5392049543e1FdCFAd9CD8a05A6D28EEf5E9b7",
+      "address": "0x814baDf5591D175D5b7296Ae93c68F0650347Acc",
       "symbol": "meroUSDC",
       "name": "Mero USDC",
       "decimals": 6,
@@ -14,7 +14,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x15CC2cc177CC56e795eBBD8a679984Db1EdDEb52",
+      "address": "0x073f852DfF2B3c0628db7D28F9F4845c28C1e128",
       "symbol": "meroDAI",
       "name": "Mero DAI",
       "decimals": 18,
@@ -22,15 +22,23 @@
     },
     {
       "chainId": 1,
-      "address": "0x05e27731b4b2c95E61Ff693B9F61FC36C9B7FD2f",
+      "address": "0x582677Cb94F25D4B68DbcBbAF0f8D9CBdc3fbA0e",
       "symbol": "meroETH",
       "name": "Mero ETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/merofinance/token-list/main/assets/meroETH.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xBa919A981e5AcAB6ced96994cc32636d76af05de",
+      "symbol": "meroUSDT",
+      "name": "Mero USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/merofinance/token-list/main/assets/meroUSDT.png"
     }
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   }
